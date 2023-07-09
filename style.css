@@ -159,10 +159,11 @@ p {
 }
 .col-3 img:active {
   top: 1px;
-  -moz-box-shadow: 0 2px #e2e2e2, 0 4px 1px #ccccce;
-  -webkit-box-shadow: 0 2px #e2e2e2, 0 4px 1px #ccccce;
-  box-shadow: 0 2px #e2e2e2, 0 4px 1px #ccccce;
+  -moz-box-shadow: 0 0px #e2e2e2;
+  -webkit-box-shadow: 0 0px #e2e2e2;
+  box-shadow: 0 0px #e2e2e2;
 }
+
 
 .small-container {
   max-width: 1080px;
